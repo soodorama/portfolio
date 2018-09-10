@@ -16,8 +16,6 @@
         <div class="header">
             <img src="{% static 'portfolio_app/img/bitmoji_cropped.png' %}" alt="Logo">
             <h2>Neil Sood</h2>
-        </div>
-        <div class="navbar">
             <ul>
                 <li><a href="{% url 'bio' %}">Bio</a></li>
                 <li><a href="{% url 'projects' %}">Projects</a></li>
@@ -29,9 +27,12 @@
             <h1>Look how awesome I am</h1>
         </div>
         <div class="footer">
-            <h4>Contact</h4>
-            <a href="https://www.linkedin.com/in/nsood/"><img src="{% static 'portfolio_app/img/logo_linkedin.png' %}" alt="LinkedIn"></a>
-            <a href="https://github.com/soodorama"><img src="{% static 'portfolio_app/img/logo_github.png' %}" alt="GitHub"></a>
+            <div class="footer_links">
+                <h4>Contact Me</h4>
+                <a href=""><img src="{% static 'portfolio_app/img/logo_email.png' %}" alt="Email"></a>
+                <a href="https://www.linkedin.com/in/nsood/"><img src="{% static 'portfolio_app/img/logo_linkedin.png' %}" alt="LinkedIn"></a>
+                <a href="https://github.com/soodorama"><img src="{% static 'portfolio_app/img/logo_github.png' %}" alt="GitHub"></a>
+            </div>
             <h6></h6>
         </div>
     </div>
