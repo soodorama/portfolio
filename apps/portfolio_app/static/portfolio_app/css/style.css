@@ -1,0 +1,290 @@
+
+/*
+H    H  EEEEEE        A        DD      EEEEEE  R R
+H    H  E            A A       D  D    E       R   R
+H    H  E           A   A      D   D   E       R   R
+HHHHHH  EEEE       AAAAAAA     D    D  EEEE    R R
+H    H  E         A       A    D   D   E       R
+H    H  E        A         A   D D     E       R R
+H    H  EEEEEE  A           A  DD      EEEEEE  R   R
+*/
+
+div.container div.header {
+    position: relative;
+    width: 100%;
+    height: 130px;
+    padding-top: 10px;
+}
+
+
+div.container div.header img {
+    display: inline-block;
+    height: 128px;
+    width: 128px;
+}
+
+div.container div.header h2 {
+    display: inline-block;
+
+}
+
+/* 
+N       N        A    V           V  B B          A        R R
+N N     N       A A    V         V   B   B       A A       R   R
+N  N    N      A   A    V       V    B   B      A   A      R   R
+N   N   N     AAAAAAA    V     V     B B       AAAAAAA     R R
+N    N  N    A       A    V   V      B   B    A       A    R
+N     N N   A         A    V V       B   B   A         A   R R
+N       N  A           A    V        B B    A           A  R   R
+*/
+
+/* 
+B B    OOOOO  DD    Y     Y
+B   B  O   O  D  D   Y   Y
+B   B  O   O  D   D   Y Y
+B B    O   O  D    D   Y
+B   B  O   O  D   D    Y
+B   B  O   O  D  D     Y
+B B    OOOOO  DD       Y
+*/
+
+/*
+B B    IIIII  OOOOOO
+B   B    I    O    O
+B   B    I    O    O
+B B      I    O    O
+B   B    I    O    O
+B   B    I    O    O
+B B    IIIII  OOOOOO
+*/
+
+
+/*
+FFFFFF  OOOOO   OOOOO  TTTTT EEEEEE  R R
+F       O   O   O   O    T   E       R   R
+F       O   O   O   O    T   E       R   R
+FFGF    O   O   O   O    T   EEEE    R R
+F       O   O   O   O    T   E       R
+F       O   O   O   O    T   E       R R
+F       OOOOO   OOOOO    T   EEEEEE  R   R
+*/
+
+div.container div.footer img {
+    height: 64px;
+    width: 64px;
+}
+
+
+
+
+
+/* 
+      A      
+     A A     
+    A   A    
+   AAAAAAA   
+  A       A  
+ A         A 
+A           A
+
+B B  
+B   B
+B   B
+B B  
+B   B
+B   B
+B B  
+
+CCCCCC
+C     
+C     
+C     
+C     
+C     
+CCCCCC
+
+DD    
+D  D  
+D   D 
+D    D
+D   D 
+D  D  
+DD    
+
+EEEEEE
+E     
+E     
+EEEE  
+E     
+E     
+EEEEEE
+
+FFFFFF
+F
+F
+FFFF
+F
+F
+F
+
+GGGGGG
+G     
+G     
+G     
+G  GGG
+G    G
+GGGGGG
+
+H    H
+H    H
+H    H
+HHHHHH
+H    H
+H    H
+H    H
+
+IIIII
+  I  
+  I  
+  I  
+  I  
+  I  
+IIIII
+
+JJJJJ
+  J  
+  J  
+  J  
+J J  
+ J   
+
+K    K
+K   K 
+K K   
+K     
+K K   
+K   K 
+K    K
+
+L
+L
+L
+L
+L
+L
+LLLLLL
+
+M       M
+M M   M M
+M   M   M
+M       M
+M       M
+M       M
+M       M
+
+N       N
+N N     N
+N  N    N
+N   N   N
+N    N  N
+N     N N
+N       N
+
+OOOOOO
+O    O
+O    O
+O    O
+O    O
+O    O
+OOOOOO
+
+R R  
+R   R
+R   R
+R R  
+R    
+R    
+R    
+
+QQQQQQ
+Q    Q
+Q    Q
+Q    Q
+Q  Q Q
+QQQQQQ
+      Q
+
+R R  
+R   R
+R   R
+R R  
+R    
+R R  
+R   R
+
+SSSSSS
+S    S
+S     
+SSSSSS
+     S
+S    S
+SSSSSS
+
+TTTTT
+  T
+  T
+  T
+  T
+  T
+  T
+
+U    U
+U    U
+U    U
+U    U
+U    U
+U    U
+UUUUUU
+
+V           V
+ V         V
+  V       V
+   V     V
+    V   V
+     V V
+      V
+
+W           W           W
+ W         W W         W
+  W       W   W       W
+   W     W     W     W
+    W   W       W   W
+     W W         W W
+      W           W
+
+
+X     X
+ X   X
+  X X
+   X
+  X X
+ X   X
+X     X
+
+Y     Y
+ Y   Y 
+  Y Y  
+   Y   
+   Y   
+   Y   
+   Y   
+
+ZZZZZZZ
+     Z
+    Z
+   Z
+  Z
+ Z
+ZZZZZZZ
+
+*/
